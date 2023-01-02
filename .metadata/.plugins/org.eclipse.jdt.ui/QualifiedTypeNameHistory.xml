@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.exception.UserNotFoundException"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.dto.LoginDto"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.service.ILoginServiceImpl"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.exception.OrderDetailsException"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.exception.RestaurantException"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.exception.BillException"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToMany"/>
+    <fullyQualifiedTypeName name="com.cg.ofda.exception.CartException"/>
+</qualifiedTypeNameHistroy>

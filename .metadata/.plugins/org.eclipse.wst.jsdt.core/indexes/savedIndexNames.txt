@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\chusha\Documents\ofda\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2841887864.index
+1899613962.index
+1018431645.index
+2985505418.index
+815899620.index
+2073553767.index

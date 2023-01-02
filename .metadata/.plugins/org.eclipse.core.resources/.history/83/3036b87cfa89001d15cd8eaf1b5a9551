@@ -1,0 +1,10 @@
+package com.cg.ofda.service;
+import com.cg.ofda.dto.LoginDto;
+
+public interface ILoginService {
+
+	public boolean signIn();
+	public boolean signOut();
+
+}
+
